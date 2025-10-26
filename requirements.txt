@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+prophet
+feedparser
+requests
+pytrends
+certifi
+plotly
