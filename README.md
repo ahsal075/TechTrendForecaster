@@ -15,3 +15,6 @@ This project predicts the **future demand for tech courses** using:
 ```bash
 pip install -r requirements.txt
 streamlit run dashboard.py
+## 🌍 Live Demo
+Check out the live dashboard: [TechTrend Forecaster App](https://techtrendforecaster.streamlit.app)
+
