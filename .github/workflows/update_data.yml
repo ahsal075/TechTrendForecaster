@@ -1,9 +1,10 @@
 name: Update Data Automatically
 
 on:
+  workflow_dispatch:  # 👈 this line enables the Run button
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 * * * *'  # every hour
+
 
 permissions:
   contents: write  # ✅ This line allows pushing to repo
@@ -24,7 +25,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas
+               python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run update script
         run: python update_data.py
