@@ -7,3 +7,4 @@ requests
 pytrends
 certifi
 plotly
+feedparser
