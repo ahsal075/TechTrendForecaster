@@ -10,7 +10,7 @@ wordcloud==1.9.3
 
 # --- Prophet Forecasting ---
 prophet==1.1.5
-cmdstanpy==1.2.4
+cmdstanpy==1.2.5
 Cython==3.0.10
 
 # --- Google Trends & Job Parsing ---
