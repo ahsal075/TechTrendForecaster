@@ -1,4 +1,5 @@
 import os
+import sys
 import pandas as pd
 from datetime import datetime
 import subprocess
@@ -11,14 +12,14 @@ def update_data():
     for script in scripts:
         if os.path.exists(script):
             print(f"▶ Running {script}...")
-            subprocess.run(["python", script], check=True)
+            subprocess.run([sys.executable, script], check=True)
         else:
             print(f"⚠️ {script} not found, skipping.")
 
     # Step 2: Optionally run analysis/forecast script
     if os.path.exists("analyze_and_forecast.py"):
         print("📈 Running data analysis and forecasting...")
-        subprocess.run(["python", "analyze_and_forecast.py"], check=True)
+        subprocess.run([sys.executable, "analyze_and_forecast.py"], check=True)
     else:
         print("⚠️ analyze_and_forecast.py not found, skipping.")
 
