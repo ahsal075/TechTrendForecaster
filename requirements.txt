@@ -8,3 +8,4 @@ requests==2.31.0
 pytrends==4.9.2
 certifi==2024.6.2
 feedparser==6.0.10
+pillow==9.5.0
