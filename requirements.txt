@@ -1,11 +1,10 @@
 streamlit==1.37.1
 pandas==2.2.2
 numpy==1.26.4
-matplotlib==3.9.0
-plotly==5.22.0
+matplotlib==3.8.4
 prophet==1.1.5
+plotly==5.22.0
 requests==2.31.0
 pytrends==4.9.2
-feedparser==6.0.11
-certifi==2024.7.4
-pillow==10.3.0
+certifi==2024.6.2
+feedparser==6.0.10
