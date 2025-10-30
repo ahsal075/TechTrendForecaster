@@ -1,0 +1,101 @@
+date,python,data science,artificial intelligence,cloud computing,machine learning,isPartial,role,title,company,location
+2024-10-27,84.0,5.0,5.0,2.0,7.0,False,remote job,Senior Application Security Engineer,Uniswap Labs,New York
+2024-11-03,84.0,6.0,5.0,2.0,7.0,False,remote job,Cyber Security Bootcampï¹£Job Guaranteed,Metana,
+2024-11-10,95.0,6.0,5.0,2.0,7.0,False,remote job,Backend Engineer,Convox,
+2024-11-17,94.0,6.0,6.0,2.0,7.0,False,remote job,AI Red Teamer,HiddenLayer,"Remote, US"
+2024-11-24,89.0,5.0,6.0,2.0,7.0,False,remote job,Senior DevOps Engineer,"Loka, Inc","LatAm, North Macedonia, Portugal, Serbia"
+2024-12-01,96.0,6.0,6.0,2.0,7.0,False,remote job,Product Designer,BitMEX,Remote - Europe
+2024-12-08,89.0,5.0,6.0,2.0,7.0,False,remote job,Operations Manager,Ethena Labs,Globally Remote
+2024-12-15,84.0,5.0,6.0,2.0,7.0,False,remote job,Current openings,Ava Labs,New York City
+2024-12-22,65.0,5.0,5.0,1.0,6.0,False,remote job,Product Manager,Mintos,Remote
+2024-12-29,61.0,5.0,5.0,1.0,5.0,False,remote job,Senior Mobile Growth Consultant ASO & CRO,Phiture,California
+2025-01-05,81.0,6.0,6.0,2.0,7.0,False,remote job,Technical Project Manager,Subzero Labs,Remote
+2025-01-12,83.0,6.0,6.0,2.0,7.0,False,remote job,AWS CLOUD NATIVE DEVELOPER,Cook Systems,"Atlanta, GA"
+2025-01-19,87.0,6.0,6.0,2.0,7.0,False,remote job,Logistics Analyst II,PingWind,Multiple Locations
+2025-01-26,89.0,6.0,6.0,2.0,7.0,False,remote job,Strategic Implementation Project Manager,Qualia,Remote
+2025-02-02,90.0,6.0,6.0,2.0,7.0,False,remote job,Patient Engagement Associate,Imagine Pediatrics,"Remote, USA"
+2025-02-09,88.0,6.0,6.0,2.0,7.0,False,remote job,Data Analytics Associate,Clarify Health,Remote- US
+2025-02-16,91.0,6.0,6.0,2.0,7.0,False,remote job,Executive Assistant,Splash Financial,Remote
+2025-02-23,90.0,6.0,6.0,2.0,8.0,False,remote job,Customer Service,Splash Financial,Remote
+2025-03-02,91.0,6.0,6.0,2.0,7.0,False,remote job,Operations LeadâAI Powered Quoting Content Communications,Ascent Yard Care,
+2025-03-09,86.0,6.0,5.0,2.0,7.0,False,remote job,Sales Executive,Shakepay,"Remote, Canada"
+2025-03-16,91.0,6.0,6.0,2.0,7.0,False,remote job,Video Editor II,SpaceX,"Bastrop, TX"
+2025-03-23,84.0,6.0,5.0,2.0,7.0,False,remote job,Senior Operations Manager Complaints,Monzo,Cardiff London or  UK
+2025-03-30,84.0,6.0,5.0,2.0,7.0,False,remote job,Director of Development,Code.org,"Remote or Seattle, WA"
+2025-04-06,81.0,6.0,5.0,2.0,7.0,False,remote job,Director Demand Generation US,Seamless.AI,United States
+2025-04-13,73.0,6.0,5.0,2.0,7.0,False,remote job,Job openings,Black & White Zebra,Remote
+2025-04-20,76.0,6.0,6.0,2.0,7.0,False,remote job,Sales Engineer,bloXroute Labs,Hong Kong
+2025-04-27,75.0,6.0,5.0,2.0,7.0,False,remote job,Business Operations Manager,Alpen Labs,Remote
+2025-05-04,76.0,6.0,6.0,2.0,7.0,False,remote job,Thai Audio Reviewer Help Improve AI Conversations,CrowdGen by Appen,Thailand
+2025-05-11,74.0,7.0,6.0,2.0,7.0,False,remote job,Software Engineer,Tech Innovations Inc.,San Francisco
+2025-05-18,74.0,7.0,6.0,2.0,7.0,False,remote job,Software Engineer C+,Octo Horizon,
+2025-05-25,70.0,6.0,5.0,2.0,7.0,False,remote job,Key Account Manager Seattle S WA AK,Braeburn,Seattle
+2025-06-01,75.0,6.0,6.0,2.0,7.0,False,remote job,Infra DevOps Engineer Specialist,Invisible Agency,World Wide
+2025-06-08,79.0,7.0,7.0,2.0,9.0,False,remote job,Backend Engineer Specialist,Invisible Agency,LATAM
+2025-06-15,77.0,7.0,7.0,3.0,9.0,False,remote job,Senior Manager Estimation,174 Power Global,Remote
+2025-06-22,81.0,7.0,7.0,2.0,8.0,False,remote job,Paid Social Growth Marketer Consultant,Right Side Up,"Austin, TX"
+2025-06-29,73.0,7.0,6.0,2.0,8.0,False,remote job,Service Level &amp; Availability Manager,Doran Jones Inc.,United States
+2025-07-06,74.0,7.0,7.0,2.0,7.0,False,remote job,Logistics Analyst I,PingWind,Multiple Locations
+2025-07-13,75.0,7.0,7.0,2.0,8.0,False,remote job,Data Scientist Specialist,Invisible Agency,World Wide
+2025-07-20,77.0,8.0,8.0,2.0,9.0,False,remote job,Global Compensation COE Director,Veeam Software,North Carolina
+2025-07-27,83.0,8.0,9.0,2.0,10.0,False,remote job,Forward Deployed Engineer,Sayari,Remote - US
+2025-08-03,94.0,11.0,11.0,2.0,13.0,False,remote job,Full Stack Engineer Specialist,Invisible Agency,LATAM
+2025-08-10,99.0,14.0,16.0,3.0,19.0,False,remote job,Senior Data Engineer,3Pillar,Mexico
+2025-08-17,100.0,15.0,15.0,3.0,17.0,False,remote job,Director Finance Strategy &amp; Operations,HighLevel,United States
+2025-08-24,91.0,12.0,12.0,3.0,14.0,False,remote job,Tech Recruiter,Retired.com,Remote
+2025-08-31,98.0,14.0,13.0,3.0,15.0,False,remote job,Senior Project Manager Finance Fuze Health,Fuze Health,United States
+2025-09-07,94.0,13.0,12.0,3.0,14.0,False,remote job,AI Translation Evaluator Turkish &gt; English,CrowdGen by Appen,Any
+2025-09-14,95.0,12.0,11.0,4.0,14.0,False,remote job,Account Executive Renewal Sales,Kapitus,Remote - US
+2025-09-21,96.0,13.0,14.0,5.0,15.0,False,remote job,Autonomy Software Engineer Integration,Glydways,Remote
+2025-09-28,92.0,13.0,15.0,5.0,15.0,False,remote job,Kinyarwanda Language Specialist AI Trainer,Invisible Agency,Africa
+2025-10-05,98.0,11.0,13.0,4.0,14.0,False,remote job,Full Stack Developer,Bisnow,Remote
+2025-10-12,87.0,9.0,10.0,3.0,11.0,False,remote job,Field Sales Representative field based Dallas Fort Worth Texas,Liquid Death,Dallas-Fort Worth
+2025-10-19,71.0,5.0,5.0,2.0,6.0,False,remote job,Speciality Distribution Manager,Cycle Pharmaceuticals Ltd,US
+2025-10-26,76.0,5.0,5.0,2.0,6.0,True,remote job,Project Intake Consultant,Aptitude 8,Remote
+,,,,,,,remote job,SAP PP Consultant,mindsquare AG,Remote
+,,,,,,,remote job,SAP HCM Berater,mindsquare AG,Remote
+,,,,,,,remote job,Solution Architect SAP S 4HANA Migration,mindsquare AG,Remote
+,,,,,,,remote job,Consultant SAP Supply Chain Operations,mindsquare AG,Remote
+,,,,,,,remote job,Technical Consultant Integration PI PO Voll oder Teilzeit,mindsquare AG,Remote
+,,,,,,,remote job,SAP SuccessFactors Consultant Employee Central,mindsquare AG,Remote
+,,,,,,,remote job,Pflichtpraktikum Praxisphase zum IT Consultant,mindsquare AG,Remote
+,,,,,,,remote job,SAP EWM Consultant,mindsquare AG,Remote
+,,,,,,,remote job,SAP Entwickler RAP CAP,mindsquare AG,Remote
+,,,,,,,remote job,SAP Technical Consultant Voll oder Teilzeit,mindsquare AG,Remote
+,,,,,,,remote job,Consultant SAP CCM CCS,mindsquare AG,Remote
+,,,,,,,remote job,Senior SAP Pre Sales Solution Architect,mindsquare AG,Remote
+,,,,,,,remote job,Consultant SAP Supply Chain Growth & Portfolio,mindsquare AG,Remote
+,,,,,,,remote job,Sales Consultant SAP Procurement MM Ariba,mindsquare AG,Remote
+,,,,,,,remote job,Presales Consultant SAP Technology,mindsquare AG,Remote
+,,,,,,,remote job,Senior Business Development Manager DACH,Janes,Germany
+,,,,,,,remote job,Senior Fullstack Engineer Payments Platform,Xero,San Mateo
+,,,,,,,remote job,Graphic Designer,SupplyHouse.com,Remote
+,,,,,,,remote job,Senior Golang Full Stack Developer,GRAX,
+,,,,,,,remote job,Head of Platform Engineering,Ethena Labs,Globally Remote
+,,,,,,,remote job,Business Development Lead Fintech,Socket,Remote
+,,,,,,,remote job,Job 25443 Senior Quality Assurance Automation Brazil,CI&amp;T,Brazil
+,,,,,,,remote job,Job 25362 Tester Junior Brazil,CI&amp;T,Brazil
+,,,,,,,remote job,*SR DevOps Data engineer,Coderio,
+,,,,,,,remote job,Job,Datavant,
+,,,,,,,remote job,Talent Management Director,Industrial Electric Manufacturing,Remote - US
+,,,,,,,remote job,Senior Customer Success Manager,Zscaler Red Canary,Remote - USA
+,,,,,,,remote job,Learning Program Manager,Industrial Electric Manufacturing,Remote - US
+,,,,,,,remote job,Customer Success Manager,Pulley,Remote
+,,,,,,,remote job,Talent &amp; People Ops Manager,Mongoose,
+,,,,,,,remote job,Account Executive North America New Logo,Cyara,United States
+,,,,,,,remote job,Data Science Manager,Federato,Remote
+,,,,,,,remote job,Creative Producer,PIP Labs,US
+,,,,,,,remote job,Talent Management Program Coordinator,Industrial Electric Manufacturing,Remote - US
+,,,,,,,remote job,Partner Marketing Manager,Honeycomb,Remote - United States
+,,,,,,,remote job,Sales Development Associate,Catalyst Inc,"Remote, East Coast"
+,,,,,,,remote job,Junior Copywriter,NPHub,Colombia - Remote
+,,,,,,,remote job,Engineering Manager,Fora Financial,Remote
+,,,,,,,remote job,Director Membership Growth & Retention,Åura,"Remote - Boston, Massachusetts; Remote - New York, New York; Remote - United States; Remote - Washington, District of Columbia"
+,,,,,,,remote job,BUSINESS DEVELOPMENT DIRECTOR,Wishpond Technologies,Philippines
+,,,,,,,remote job,Quality Assurance Analyst,Carrot,Remote
+,,,,,,,remote job,Growth Marketing Specialist,PolicyMe,Remote in Toronto
+,,,,,,,remote job,Animation Lead,Unknown Worlds,Remote
+,,,,,,,remote job,Care Companion I,Carrot,Remote
+,,,,,,,remote job,Sr NGS Sales Specialist Boston,Twist Bioscience,USA - Remote
+,,,,,,,remote job,Senior Software Engineer,Acquia,Pune or Delhi/NCR
+,,,,,,,remote job,Customer Marketing Manager,Vimeo,New York
